@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78799d9b647450745ac6c18641729df4, type: 3}
+  m_Name: Rules1
+  m_EditorClassIdentifier: 
+  spawnRules:
+  - entityScript: {fileID: 6781952262989005085, guid: 98a51e5f002eee742afec050fafa4c52, type: 3}
+    entityName: 
+    doorSpawn: 20
+  - entityScript: {fileID: 3041655483599694929, guid: 004cf5784039f49468da1623d0066dc9, type: 3}
+    entityName: 
+    doorSpawn: 30
+  - entityScript: {fileID: 6781952262989005085, guid: 98a51e5f002eee742afec050fafa4c52, type: 3}
+    entityName: 
+    doorSpawn: 50
+  - entityScript: {fileID: 3041655483599694929, guid: 004cf5784039f49468da1623d0066dc9, type: 3}
+    entityName: 
+    doorSpawn: 50
+  - entityScript: {fileID: 6781952262989005085, guid: 98a51e5f002eee742afec050fafa4c52, type: 3}
+    entityName: 
+    doorSpawn: 70
+  - entityScript: {fileID: 3041655483599694929, guid: 004cf5784039f49468da1623d0066dc9, type: 3}
+    entityName: 
+    doorSpawn: 80
